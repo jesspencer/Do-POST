@@ -40,7 +40,7 @@ PythonPython 3.6.1 and one html file.
 - The .html file needs to be run concurrently with ncat -l 9999 in terminal your terminal.
 
 ## BUGS AND FEATURE REQUESTS
-Have a bug or a feature request? Please open an [issue](https://github.com/jesspencer/good-grub/issues/new).
+Have a bug or a feature request? Please open an [issue](https://github.com/jesspencer/Do-POST/issues/new).
 
 ## CREATOR
 **Jessica Spencer**
